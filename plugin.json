@@ -1,0 +1,14 @@
+{
+  "Author": "Selune Latte",
+  "Name": "GambaPlugin",
+  "Punchline": "A gambling plugin for Blackjack, Roulette, and more.",
+  "Description": "Play Blackjack and more in FFXIV with multiplayer support, persistent chips, and chip purchasing.",
+  "AssemblyVersion": "1.0.0.0",
+  "DalamudApiLevel": 8,
+  "RepoUrl": "https://github.com/GamerLatte/Ultimate-Gamba",
+  "ApplicableVersion": "any",
+  "Tags": ["gambling", "blackjack", "cards", "chips"],
+  "InternalName": "GambaPlugin",
+  "AssemblyName": "GambaPlugin",
+  "EntryPoint": "GambaPlugin.GambaPlugin"
+}

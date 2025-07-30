@@ -1,6 +1,7 @@
 {
   "Author": "Selune Latte",
   "Name": "GambaPlugin",
+  "InternalName": "Ultimate Gamba",
   "Punchline": "A gambling plugin for Blackjack, Roulette, and more.",
   "Description": "Play Blackjack and more in FFXIV with multiplayer support, persistent chips, and chip purchasing.",
   "AssemblyVersion": "1.0.0.0",

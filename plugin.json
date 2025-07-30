@@ -1,15 +1,21 @@
-{
-  "Author": "Selune Latte",
-  "Name": "GambaPlugin",
-  "InternalName": "Ultimate Gamba",
-  "Punchline": "A gambling plugin for Blackjack, Roulette, and more.",
-  "Description": "Play Blackjack and more in FFXIV with multiplayer support, persistent chips, and chip purchasing.",
-  "AssemblyVersion": "1.0.0.0",
-  "DalamudApiLevel": 8,
-  "RepoUrl": "https://github.com/GamerLatte/Ultimate-Gamba",
-  "ApplicableVersion": "any",
-  "Tags": ["gambling", "blackjack", "cards", "chips"],
-  "InternalName": "GambaPlugin",
-  "AssemblyName": "GambaPlugin",
-  "EntryPoint": "GambaPlugin.GambaPlugin"
-}
+[
+  {
+    "Author": "Selune Latte",
+    "Name": "Ultimate Gamba",
+    "InternalName": "Ultimate Gamba",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Play Blackjack and gamble your chips away with friends!",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/GamerLatte/Ultimate-Gamba",
+    "Tags": [ "blackjack", "gambling", "chips", "event" ],
+    "Punchline": "Gamble responsibly!",
+    "Changelog": "- Initial release with Blackjack support\n- Persistent chips & betting\n- GUI for buying chips and starting games",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/GamerLatte/Ultimate-Gamba/main/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/GamerLatte/Ultimate-Gamba/main/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/GamerLatte/Ultimate-Gamba/main/icon.ico",
+    "ImageUrls": [],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "IsTestingPlugin": false
+  }
+]
